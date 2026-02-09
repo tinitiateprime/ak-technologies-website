@@ -1,7 +1,6 @@
 // src/app/layout.js
 import Header from './components/header';
 import Footer from './components/footer'
-import ChatWidget from './components/ChatWidget';
 import { MessageCircle } from 'lucide-react' // or any icon like 'PhoneCall', 'MessageSquare'
 import './globals.css'    // Tailwind utilities and base styles
 
@@ -31,8 +30,6 @@ export default function RootLayout({ children }) {
          <main className="flex-grow pt-14">
           {children}
         </main>
-
-        <ChatWidget />
 
 {/* <a
   href="https://wa.me/919553495553"
