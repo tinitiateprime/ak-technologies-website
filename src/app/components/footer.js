@@ -144,11 +144,11 @@ export default function Footer() {
             <div>
               📧{" "}
               <a href="mailto:contact@tinitiate.com" className="hover:text-blue-600 transition">
-                contact@tinitiate.com
+                contact@aktechit.com
               </a>
             </div>
 
-            <div>
+            {/* <div>
               <span className="font-medium">USA:</span>{" "}
               <a href="tel:+19736536870" className="hover:text-blue-600 transition">
                 +1 (973) 653-6870
@@ -164,23 +164,23 @@ export default function Footer() {
               <a href="tel:+919553495553" className="hover:text-blue-600 transition">
                 +91 95534 95553
               </a>
-            </div>
+            </div> */}
 
             <address className="not-italic space-y-2 pt-2">
               <div>
                 <span className="font-semibold">Head Office:</span>
                 <br />
-                Plot No. B 503, Ace Ajanta, Beside Indu Aranya, Nagole, Hayathnagar, R.R. – 500068, Telangana, India
+               1420 Valley Trl Irving  Tx 75063
               </div>
             </address>
 
-            <address className="not-italic space-y-2 pt-2">
+            {/* <address className="not-italic space-y-2 pt-2">
               <div>
                 <span className="font-semibold">Corporate Office:</span>
                 <br />
                 1-2/10 SBH Colony Mohan Nagar, SBH Colony, Kothapet, 500036, Telangana, India
               </div>
-            </address>
+            </address> */}
           </div>
         </div>
       </div>
