@@ -5,7 +5,7 @@ import { MessageCircle } from 'lucide-react' // or any icon like 'PhoneCall', 'M
 import './globals.css'    // Tailwind utilities and base styles
 
 export const metadata = {
-  title: 'TINITIATE',
+  title: 'AK technologies',
   description: 'Empowering IT Careers',
   icons: {
     icon: '/favicon.png', // or .png/.svg
